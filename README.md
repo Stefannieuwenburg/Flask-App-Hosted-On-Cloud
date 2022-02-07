@@ -1,4 +1,4 @@
-# Flask-App-Hosted-On-VPS
+# Flask-App-Hosted-On-Cloud
 Files needed to host a flask application on a linux Cloud.
 
 ## Commands
